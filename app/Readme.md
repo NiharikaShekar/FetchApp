@@ -31,7 +31,9 @@ This application fetches data from the Fetch Rewards hiring API endpoint and dis
 
 ## Screenshots
 
-[Screenshots would go here]
+<img width="192" alt="Screenshot 2025-03-03 at 12 01 01 AM" src="https://github.com/user-attachments/assets/4f1761fa-0b3b-4657-b683-2cde2849aaae" />
+<img width="212" alt="Screenshot 2025-03-03 at 12 00 40 AM" src="https://github.com/user-attachments/assets/b2374ca9-6a60-42ca-bfa2-f45af40d91a2" />
+
 
 ## Setup Instructions
 
@@ -43,9 +45,4 @@ This application fetches data from the Fetch Rewards hiring API endpoint and dis
 
 The app fetches data from: https://fetch-hiring.s3.amazonaws.com/hiring.json
 
-## Contact
-
-Feel free to reach out if you have any questions about my implementation!
-
-[Your Name]
-[Your Contact Information]
+Thank you!
